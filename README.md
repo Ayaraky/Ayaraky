@@ -2,7 +2,7 @@
 
 Antes de tudo, meu nome é Christian, porém podem me chamar de Kay. 
 
-- estou atualmente aprendendo sobre JavaScript
+- estou atualmente aprendendo C;
 
 - vou usar tal espaço para guardar e organizar quais projetos que fiz...
 
