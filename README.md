@@ -1,6 +1,6 @@
 ### Prazer em te ver
 
-Antes de tudo, meu nome é Christian, porém podem me chamar de Kay. 
+Antes de tudo, meu nome é Christian. 
 
 - estou atualmente aprendendo C;
 
